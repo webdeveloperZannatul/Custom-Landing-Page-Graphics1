@@ -1,0 +1,11 @@
+<svg class="absolute top-0 right-0 w-1/2 h-full" viewBox="0 0 400 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M400 0L200 400L400 800" stroke="url(#heroGrad)" stroke-width="1"></path>
+                <path d="M350 0L175 350L350 700" stroke="url(#heroGrad)" stroke-width="0.5"></path>
+                <path d="M300 0L150 300L300 600" stroke="url(#heroGrad)" stroke-width="0.5"></path>
+                <defs>
+                    <linearGradient id="heroGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+                        <stop offset="0%" stop-color="#00D4FF"></stop>
+                        <stop offset="100%" stop-color="#7B2FFF"></stop>
+                    </linearGradient>
+                </defs>
+            </svg>
